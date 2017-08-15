@@ -8,5 +8,7 @@ int main() {
 	//test of squash2
 	//test of squash3
 	//test of squash4
+
+	//test of rebase
 	return 0;
 }
