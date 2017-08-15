@@ -5,5 +5,6 @@ int main() {
 	std::cout << "Hello, world!";
 
 	//test of squash1
+	//test of squash2
 	return 0;
 }
