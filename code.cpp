@@ -14,5 +14,7 @@ int main() {
 	//test of rebase3
 	//test of rebase4
 
+	//test of fork
+
 	return 0;
 }
