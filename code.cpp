@@ -10,5 +10,6 @@ int main() {
 	//test of squash4
 
 	//test of rebase
+	//test of rebase2
 	return 0;
 }
